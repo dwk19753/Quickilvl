@@ -1,0 +1,6 @@
+## Interface: 110002
+## Title: Quick iLvl
+## Notes: Displays a player's ilvl upon inspecting them
+## Author: David Knott
+
+Quickilvl.lua
